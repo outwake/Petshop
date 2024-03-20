@@ -1,0 +1,86 @@
+#3c184e
+#fff
+
+
+sombreamento #0000005c
+
+#ffffffc4 opacity
+
+sans-serif
+
+ /*
+   */
+
+
+
+Deve ocupar 100% da largura da tela;
+Deve ter um espaçamento interno de 120px (superior e inferior) e 80px (nas laterais);
+Terá uma imagem de fundo e seu posicionamento terá o valor "center";
+Para que a imagem ocupe todo o espaço do elemento utilize o valor "cover";
+
+serviço
+Deve ocupar 100% da largura da tela;
+Deve ter um espaçamento interno de 120px (superior e inferior) e 80px (nas laterais).
+
+lista
+Largura máxima 800px;
+Margem superior zerada;
+Margens laterais com valor "auto";
+Margem inferior 50px.
+Cor dos textos #3c184e.
+
+itens da lista
+Tamanho da fonte 20px;
+Margem inferior 20px;
+Margem superior e laterais zeradas.
+
+Container das imagens (Figura 22):
+Largura máxima 800px;
+Margem superior e inferior zeradas;
+Margens laterais com valor "auto";
+Conteúdo centralizado.
+Bordas arredondadas em 5px
+Uma sombra:
+Deslocamento X de 3px
+Deslocamento Y de 6px;
+Desfoque de 10px;
+Expansão de 6px;
+Cor #0000005c.
+
+
+Um container:
+Espaçamento interno de 120px (superior e inferior) e 80px (nas laterais);
+Cor de fundo #3c184e;
+Conteúdo centralizado;
+
+
+O parágrafo terá:
+
+Largura máxima de 800px;
+Margem superior zerada;
+Margem inferior 50px;
+Margens laterais com valor "auto";
+Tamanho da fonte 40px;
+Cor da fonte #fff;
+Texto centralizado.
+
+
+Subtítulo (h3):
+Tamanho da fonte 36px;
+Cor do texto #3c184e;
+Texto centralizado;
+Margem superior e laterais zeradas;
+Margem inferior 45px;
+
+
+Containers:
+Largura máxima 800px;
+Margem superior e inferior zeradas;
+Margens laterais com valor "auto";
+
+Imagens:
+Em cada container teremos quatro imagens com as especificações abaixo:
+
+Largura e altura 148px;
+Margem superior e inferior zeradas;
+Margens laterais 15px.
